@@ -1,0 +1,21 @@
+h1, h2{
+    color: tomato;
+    font-size: 5em;
+}
+
+.styleYellow
+{color:yellow;}
+
+#opmaak{
+    color: yellow;
+}
+
+section>h1{
+    color : green;
+    font-size: 5em;
+}
+
+section.styleYellow h1{
+    color : green;
+    font-size: 5em;
+}
