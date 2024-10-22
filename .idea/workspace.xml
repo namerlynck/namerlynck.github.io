@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo4/Hobbys/images/Breaking_Bad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hobbys/images/Cars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hobbys/images/IMG_NATHAN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hobbys/images/Nathan_CloseUp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hobbys/images/eminem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hobbys/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hoofdpagina/images/Breaking_Bad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hoofdpagina/images/Cars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hoofdpagina/images/IMG_NATHAN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hoofdpagina/images/Nathan_CloseUp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hoofdpagina/images/eminem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Hoofdpagina/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Likes/images/Breaking_Bad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Likes/images/Cars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Likes/images/IMG_NATHAN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Likes/images/Nathan_CloseUp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Likes/images/eminem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/Likes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/Hobbys/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/Hobbys/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/Hoofdpagina/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/Hoofdpagina/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +95,7 @@
       <workItem from="1729178601687" duration="1423000" />
       <workItem from="1729234157382" duration="2311000" />
       <workItem from="1729581533882" duration="54000" />
-      <workItem from="1729616554607" duration="1425000" />
+      <workItem from="1729616554607" duration="1597000" />
     </task>
     <servers />
   </component>
