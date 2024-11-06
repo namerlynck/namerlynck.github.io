@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo5/Webpagina/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo5/Webpagina/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Demo/Box/Images/orange_flowers.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Demo/Box/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Demo/selectors/Style/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Demo/selectors/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdracht3/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo6/Opdracht3/resume.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -60,11 +63,11 @@
       <recent name="C:\OefeningenWebdev\Labo 3\Personal Homepage Assignment\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo6\Opdracht3" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo6\Demo\Box\Images" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo6\Demo" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo4\Hoofdpagina" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo4\Hobbys" />
-      <recent name="C:\OefeningenWebdev\Labo4\Demo\Picture\Images" />
-      <recent name="C:\OefeningenWebdev\Labo 3\Personal Homepage Assignment\Images" />
-      <recent name="C:\OefeningenWebdev\Labo 3\Demo\images" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -97,7 +100,8 @@
       <workItem from="1729234157382" duration="2311000" />
       <workItem from="1729581533882" duration="54000" />
       <workItem from="1729616554607" duration="2983000" />
-      <workItem from="1730486965820" duration="996000" />
+      <workItem from="1730486965820" duration="1740000" />
+      <workItem from="1730898575495" duration="7324000" />
     </task>
     <servers />
   </component>

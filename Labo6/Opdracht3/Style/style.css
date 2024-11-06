@@ -1,0 +1,36 @@
+body{
+    font-family: Helvetica, sans-serif;
+    margin-top:0px;
+}
+h1,h2{
+    font-weight:normal;
+}
+
+h1{
+    font-size: 6em;
+
+}
+h2{
+    font-size: 2.5em;
+}
+header,footer{
+    padding:30px;
+    margin:10px;
+    background-color: #2B2D42;
+    color: #EDF2F4;
+}
+header {
+    margin-bottom: 30px;
+}
+footer{
+    margin-top: 30px;
+}
+.education{
+    padding:30px;
+    background-color: #8D99AE;
+    margin: 10px;
+
+}
+body a:link{
+    color: #EF233C;
+}
