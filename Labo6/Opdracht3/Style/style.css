@@ -1,7 +1,9 @@
 body{
     font-family: Helvetica, sans-serif;
+    margin-bottom: 0px;
     margin-top:0px;
 }
+/*h1 & h2*/
 h1,h2{
     font-weight:normal;
 }
@@ -13,24 +15,36 @@ h1{
 h2{
     font-size: 2.5em;
 }
+/*header & footer*/
 header,footer{
     padding:30px;
-    margin:10px;
     background-color: #2B2D42;
     color: #EDF2F4;
+    margin: 10px;
 }
 header {
     margin-bottom: 30px;
+    margin-top: 0px;
+   /* margin-left: 10px;
+    margin-right:10px;*/
 }
 footer{
     margin-top: 30px;
+    margin-bottom: 0px;
+    /*margin-left: 10px;
+    margin-right:10px;*/
 }
+/*class education*/
 .education{
-    padding:30px;
     background-color: #8D99AE;
     margin: 10px;
+    padding: 30px;
 
 }
+/*links*/
 body a:link{
+    color: #EF233C;
+}
+body a:active,a{
     color: #EF233C;
 }
