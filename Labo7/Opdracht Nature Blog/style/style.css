@@ -1,0 +1,45 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article h1{
+    color: black;
+    text-decoration: underline;
+    font-size: 30px;
+
+    /*background-image: none;*/
+    /*height: auto;*/
+}
+article{
+    margin: 5px;
+    padding: 10px;
+    background-color:gray;
+}
+
+
+body>section>header>h1{
+    color:#FFFFFF;
+    font-weight: bold;
+    font-size:40px;
+    margin:10px;
+}
+body>section>header{
+    height:200px;
+    background-image: url('../images/header.jpg');
+    background-size: cover;
+}
+nav a{
+    color: #6ee86e;
+    /*background-color: darkgray;*/
+    margin-top: 0em;
+    padding-top: 0em;
+    font-weight: bold;
+    text-decoration: none;
+}
+nav{
+    background-color: #575757;
+}

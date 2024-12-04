@@ -4,7 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="" />
+    <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo7/Demo/background-image/images/header2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Demo/background-image/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Demo/background-image/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Demo/background-image/style/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Demo/specificity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Demo/specificity/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/images/nature blog example.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/Breaking_Bad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/Cars.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/IMG_NATHAN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/Nathan_CloseUp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/eminem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/background.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/blue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/chai.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/cocktail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/cocktails.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/green.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/lightblue.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/yellow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/loungestart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/VerticalAlign/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/Image/logo_vives.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/float2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/float3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/Demo/Collapsing margin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/Demo/Relative-absolute position/position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/OpdrachtImagePositie/OpdrachtAirBus/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/OpdrachtImagePositie/OpdrachtAirBus/airbus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/OpdrachtImagePositie/Styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/OpdrachtImagePositie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/PersonalHomepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/PersonalHomepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht6/Style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/Opdracht6/Style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +60,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -36,7 +83,7 @@
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GITHUB/repositories/namerlynck.github.io/Labo4/Likes&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GITHUB/repositories/namerlynck.github.io/Labo7/Opdracht Personal Homepage/Images&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -49,18 +96,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo7\Opdracht Personal Homepage\Images" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo8\Opdracht Cocktailbar\images" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo7\Demo\background-image\images" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo4\Likes" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo4\Hobbys" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo4" />
-      <recent name="C:\OefeningenWebdev\Labo 3\Prognose Personal Homepage" />
-      <recent name="C:\OefeningenWebdev\Labo 3\Personal Homepage Assignment\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo6\Opdracht6\Images" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo6\Opdracht5\Images" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo6\Opdracht5" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo6\Opdracht5\Style" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo6\Opdracht3" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo9\OpdrachtImagePositie\OpdrachtAirBus" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo9\OpdrachtImagePositie" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo8\Opdracht Cocktailbar" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo8\positioneren elementen\Demo\Image" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo8\positioneren elementen" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -96,7 +143,14 @@
       <workItem from="1730486965820" duration="1740000" />
       <workItem from="1730898575495" duration="9422000" />
       <workItem from="1731314521395" duration="8820000" />
-      <workItem from="1731492660744" duration="348000" />
+      <workItem from="1731492660744" duration="663000" />
+      <workItem from="1731503547159" duration="6161000" />
+      <workItem from="1732107989851" duration="6649000" />
+      <workItem from="1732566578757" duration="2970000" />
+      <workItem from="1732569600413" duration="617000" />
+      <workItem from="1732631685192" duration="1021000" />
+      <workItem from="1732713080019" duration="6379000" />
+      <workItem from="1732739830115" duration="4036000" />
     </task>
     <servers />
   </component>

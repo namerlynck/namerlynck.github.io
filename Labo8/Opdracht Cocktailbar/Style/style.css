@@ -1,0 +1,79 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2em;
+    align-content: center;
+    width: 95%;
+    padding: 0px;
+    margin: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+header>p{
+    text-align: center;
+}
+h1,h2{
+    color:#007e7e;
+}
+h1{
+    font-size:150%;
+}
+h2{
+    font-size: 130%;
+}
+/*article{
+    width: 30%;
+    float: left;
+}*/
+#elixirs{
+    width: 30%;
+    float: right;
+    border: 1px solid #007e7e;
+    padding: 2%;
+    box-sizing: border-box;
+    text-align: center;
+    background: url("../images/cocktail.gif") repeat-x;
+    line-height: 1;
+}
+#elixirs h1{
+    color: firebrick;
+}
+#elixirs h2{
+    color: firebrick;
+}
+#content{
+    width: 70%;
+    float: left;
+    padding-right: 8px;
+    box-sizing: border-box;
+}
+#guarantee{
+    margin: 30px;
+    padding: 20px;
+    color: #444444;
+    background-color:#a7cece;
+    font-style:italic;
+    font-family: georgia, "times New Roman", serif;
+    border: 1px dashed white;
+    line-height: 1.9em;
+    /*eigenlijk hier uw image met "no-repeat top left;*/
+
+}
+#guarantee img{
+    float: left;
+}
+article>p>a{
+    /*text-decoration: none;*/
+    color:#444444;
+}
+#cursief{
+    font-style:italic;
+}
+#vet{
+    font-weight: bold;
+}
+footer{
+    clear: both;
+    text-align: center;
+    font-size: 50%;
+}
+

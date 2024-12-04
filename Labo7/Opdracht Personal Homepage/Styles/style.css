@@ -1,0 +1,64 @@
+body{
+    font-family: Verdana, Helvetica, sans-serif;
+    width: 95%;
+    font-size: 0.8em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+body>h1{
+    font-size: 3em;
+    text-decoration: underline;
+    background-color: #8f8f8f;
+}
+body>p{
+    margin-top: 40px;
+    text-align: center;
+}
+#article{
+    background-color: lightblue;
+}
+#foto_nathan
+{
+    display: inline-block;
+    margin-left: 50px;
+    border: 1px solid #007e7e;
+    background-color: lightblue;
+}
+
+#persoonlijke-info{
+
+    float:left;
+    width: 50%;
+}
+#persoonlijke-info h2{
+    font-size: 2.5em;
+    text-decoration: underline;
+}
+
+#sport {
+
+    float: left;
+    width: 50%;
+    margin-top: 30px;
+}
+
+#sport h2{
+    font-size: 2.5em;
+    text-decoration: underline;
+}
+
+#series_artiesten_films{
+
+    width: 50%;
+    padding-top: 30px;
+}
+
+#series_artiesten_films h2{
+    font-size: 2.5em;
+    text-decoration: underline;
+}
+
+#foto_nathan{
+    align-content: center;
+}
