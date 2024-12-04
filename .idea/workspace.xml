@@ -5,52 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo7/Demo/background-image/images/header2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Demo/background-image/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Demo/background-image/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Demo/background-image/style/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Demo/specificity/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Demo/specificity/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/images/nature blog example.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/Breaking_Bad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/Cars.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/IMG_NATHAN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/Nathan_CloseUp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Images/eminem.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Personal Homepage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/black.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/blue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/chai.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/cocktail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/cocktails.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/green.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/lightblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/red.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/images/yellow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/loungestart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/VerticalAlign/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/Image/logo_vives.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/float2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo/float3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/positioneren elementen/Demo3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo9/Demo/Collapsing margin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo9/Demo/Relative-absolute position/position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo9/OpdrachtImagePositie/OpdrachtAirBus/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo9/OpdrachtImagePositie/OpdrachtAirBus/airbus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo9/OpdrachtImagePositie/Styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo9/OpdrachtImagePositie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo3/PersonalHomepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/PersonalHomepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo6/Opdracht6/Style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/Opdracht6/Style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo9/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +106,7 @@
       <workItem from="1732631685192" duration="1021000" />
       <workItem from="1732713080019" duration="6379000" />
       <workItem from="1732739830115" duration="4036000" />
+      <workItem from="1733317802108" duration="296000" />
     </task>
     <servers />
   </component>
