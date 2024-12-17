@@ -5,7 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Labo9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Demo-responsive-studenten/Demo-responsive-studenten/Bootstrap/Default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Demo-responsive-studenten/Demo-responsive-studenten/Bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Demo-responsive-studenten/Demo-responsive-studenten/Bootstrap/style/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Demo-responsive-studenten/Demo-responsive-studenten/Bootstrap/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Demo-responsive-studenten/Demo-responsive-studenten/Float/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Demo-responsive-studenten/Demo-responsive-studenten/Float/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Demo-responsive-studenten/Demo-responsive-studenten/MediaQuery/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Demo-responsive-studenten/Demo-responsive-studenten/MediaQuery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Imagescaling/Images/bgsky3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Imagescaling/Images/black.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Imagescaling/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht Mondriaan/Style/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht Mondriaan/Style/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht Mondriaan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Demo/Bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Demo/Bootstrap/style/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Demo/Bootstrap/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Demo/Grid/grid-area.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Demo/Grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Demo/Grid/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/css/exercise1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/css/exercise2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/css/exercise3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/css/exercise4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/css/exercise5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/css/exercise6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/exercise1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/exercise2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/exercise3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/exercise4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/exercise5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/exercise6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Grid Exercises/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo9/OpdrachtAirBus/Styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo9/OpdrachtAirBus/Styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo9/OpdrachtAirBus/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo9/OpdrachtAirBus/airbus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +51,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="tsconfig.json" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -38,7 +75,7 @@
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GITHUB/repositories/namerlynck.github.io/Labo7/Opdracht Personal Homepage/Images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GITHUB/repositories/namerlynck.github.io/Labo11/Demo/Bootstrap/style&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -51,18 +88,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo11\Demo\Bootstrap\style" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo10\Opdracht Mondriaan\Style" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo10\Imagescaling\Images" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo7\Opdracht Personal Homepage\Images" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo8\Opdracht Cocktailbar\images" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo7\Demo\background-image\images" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo4\Likes" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo4\Hobbys" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo11" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo10" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo9" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo9\OpdrachtImagePositie\OpdrachtAirBus" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo9\OpdrachtImagePositie" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo8\Opdracht Cocktailbar" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo8\positioneren elementen\Demo\Image" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\Labo8\positioneren elementen" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -106,7 +143,11 @@
       <workItem from="1732631685192" duration="1021000" />
       <workItem from="1732713080019" duration="6379000" />
       <workItem from="1732739830115" duration="4036000" />
-      <workItem from="1733317802108" duration="296000" />
+      <workItem from="1733317802108" duration="4223000" />
+      <workItem from="1733922493732" duration="5710000" />
+      <workItem from="1734209001444" duration="1224000" />
+      <workItem from="1734429085610" duration="1685000" />
+      <workItem from="1734430804948" duration="862000" />
     </task>
     <servers />
   </component>

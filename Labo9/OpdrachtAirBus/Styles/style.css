@@ -75,4 +75,11 @@ main>article>p>span{
 .foto img{
     border: solid 10px #FFFFFF;
 }
+#fotocollectie {
+    display: grid;
+    grid-template-columns: repeat(3, max-content);
+    background-color: #999999;
+
+
+}
 
