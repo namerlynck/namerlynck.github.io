@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: lightskyblue;
+    font-family: Chalkboard, sans-serif;
+}
+
+h1 {text-align: center;}
+
+.container {
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+
+.border {border: 2px solid black;}
+section{
+    background: coral;
+    height: 500px;
+    display: flex;
+    /*flex-direction: column; //default*/
+    /*flex-direction: row-reverse;*/
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.grey-box {
+    background: grey;
+    width: 100px;
+    flex: 0 1 auto;
+    margin: 10px;
+    padding: 20px;
+    font-size: 2em;
+}
