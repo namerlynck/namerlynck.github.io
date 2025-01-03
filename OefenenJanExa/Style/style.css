@@ -1,0 +1,80 @@
+body{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#121212;
+    color: grey;
+}
+h1 {
+    color: #b5b5b5;
+}
+h2, h3, h4, h5, h6{
+ color: firebrick;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    border:2.5px solid #3839cc;
+    padding-top:5px;
+    padding-bottom:5px;
+    background-color: #302d2d;
+}
+nav a{
+    flex-grow: 1;
+    margin: 0 5px;
+    /*background-color: #222222;*/
+    color: #3839cc;
+    text-align: center;
+    text-decoration: none;
+    /*border: 3px solid #000000;*/
+    font-weight: bold;
+}
+nav a:hover{
+    background-color: #FFFFFF;
+    border: 2px solid #3839cc;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    clear: both;
+    text-align: center;
+    margin-bottom: 15px;
+}
+p, li{
+    color: #afafaf;
+}
+/*main>section>p>a{*/
+/*    color: #3839cc;*/
+/*}*/
+.textPersonalInfo a{
+    color: #3839cc;
+    font-weight: bold;
+    text-decoration: none;
+}
+#fotocollectie{
+    width: 49%;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border: solid 5px #3839cc;
+}
+#uitlegFotos{
+    width: 49%;
+    float:right;
+}
+#uitlegFotos a{
+    text-decoration: none;
+    color: #bdbdbd;
+}
+#note{
+    font-style: italic;
+    font-weight: bold;
+    color: #2c2c2c;
+}
+
+
+
