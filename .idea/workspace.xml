@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OefenenJanExa/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/OefenenJanExa/Contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OefenenJanExa/Style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/OefenenJanExa/Style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +125,7 @@
       <workItem from="1735825939827" duration="3524000" />
       <workItem from="1735830387047" duration="4941000" />
       <workItem from="1735841377283" duration="4886000" />
-      <workItem from="1735892586097" duration="1529000" />
+      <workItem from="1735892586097" duration="5089000" />
     </task>
     <servers />
   </component>
