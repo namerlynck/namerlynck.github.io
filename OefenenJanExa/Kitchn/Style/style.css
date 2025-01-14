@@ -1,0 +1,155 @@
+/** Volgende CSS gaan we ze geven **/
+body{
+    font-family:  Helvetica, sans-serif;
+    width: 95%;
+    margin: auto;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 2.5em;
+    border-bottom: 2px solid;
+    border-color: black;
+    margin-bottom: 1em;
+}
+h2{
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+h2>a{
+    text-decoration: none;
+    color:black;
+}
+nav{
+    display:grid;
+    grid-template-columns:auto auto auto auto auto auto auto;
+    grid-template-rows:auto ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+nav p{
+    text-transform: uppercase;
+    box-sizing: border-box;
+    border-right: 1px solid #ebe8e8;
+
+}
+nav a{
+    text-decoration: none;
+    color:#5b4746;
+    font-size: 13px;
+}
+nav a:hover{
+    border-bottom: 2px solid #fff100;
+}
+section{
+    margin-top: 50px;
+}
+menu{
+
+    display:grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
+    grid-gap: 15px;
+}
+article{
+    margin-right: 1.5em;
+    padding-left: 1em;
+    border-top: 1px solid #ddd;
+}
+footer{
+    border-top: 1px solid #666;
+}
+div>img{
+    padding: 25px;
+}
+/*Klasse's*/
+.breedtemain{
+    width: 50%;
+    margin: auto;
+}
+.respimg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.smallTitle{
+    text-transform: uppercase;
+    font-size: 1.2em;
+    text-space: 1px;
+    color: #ff4d56;
+}
+.itembody{
+    color: #666;
+    line-height: 2;
+}
+.auteur,.timestamp{
+    display: inline-block;
+}
+.auteur{
+    padding-right: 10px;
+    border-right: 1px solid #ebe8e8;
+    font-style: italic;
+}
+.timestamp{
+    padding-left: 10px;
+    color: #666;
+}
+/*id's*/
+#logo{
+    height: 50px;
+}
+#headerlogo{
+    border-bottom: 1px solid;
+    border-color: #ebe8e8;
+}
+#laatste{
+    border-right: none;
+}
+#top{
+    background: url("../imagesKitchn/headerimage.jpg");
+    height: 500px;
+    width: auto;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#titel{
+    font-size: 40px;
+    color:white;
+    text-shadow: #8D99AE  2px 2px;
+}
+#left{
+    float: left;
+    width: 50%;
+    margin: 0;
+    line-height: 2em;
+    padding: 20px;
+    text-align: right;
+}
+#right{
+    float: right;
+    width: 50%;
+    margin: 0;
+    line-height: 2em;
+    padding: 20px;
+    background-color: black;
+    color: #ebe8e8;
+}
+/*media queries*/
+@media screen and (width: 770px){
+    body{
+        width: calc(100% - 20px);
+    }
+}
+@media screen and (width: 1000px){
+    body{
+        width: calc(100% - 20px);
+    }
+}
+@media screen and (width: 800px){
+    #titel{
+        font-size:5em;
+    }
+}
