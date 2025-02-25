@@ -5,20 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/ColorPicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/ColorPicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/ColorPicker/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/Demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/Demo/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/Demo/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/OpdrachtParagrafen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/OpdrachtParagrafen/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/OpdrachtParagrafen/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/OpdrachtProducten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/OpdrachtProducten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/OpgaveButton/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/OpgaveButton/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo3/OpgaveButton/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +132,7 @@
       <workItem from="1739374766706" duration="1600000" />
       <workItem from="1739820128323" duration="3502000" />
       <workItem from="1739970396133" duration="10629000" />
-      <workItem from="1740507151010" duration="746000" />
+      <workItem from="1740507151010" duration="1248000" />
     </task>
     <servers />
   </component>
