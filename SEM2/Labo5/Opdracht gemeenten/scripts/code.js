@@ -1,10 +1,9 @@
 const setup = () => {
-    let stop = true;
     let gemeenten = [];
-    while(stop){
+    while(true){
         let input = prompt("Gemeente");
         if(input === "stop"){
-            stop = false;
+            break
         }
         gemeenten.push(input);
     }

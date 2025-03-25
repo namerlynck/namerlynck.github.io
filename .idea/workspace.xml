@@ -5,17 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht de het/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht de het/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht de het/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht gemeenten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht gemeenten/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht trigrams/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht trigrams/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht trigrams/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo4/forms/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo4/forms/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo4/manvanan/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo4/manvanan/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo4/spaties/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo4/spaties/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Demo/images/Tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Demo/images/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Demo/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Demo/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Formvalidatie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/Formvalidatie/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo5/formwaarden/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Demo/CreateNote/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Demo/CreateNote/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Demo/CreateNote/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Demo/Notes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Demo/Notes/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Demo/Selector/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Demo/Selector/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Demo/Selector/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht1/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht2/Images/pictureOfMe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht2/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht2/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht3/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Test/js_test_start/scripts/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/Labo5/Opdracht de het/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht de het/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/Labo5/Opdracht gemeenten/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht gemeenten/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/Labo5/Opdracht trigrams/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht trigrams/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/Labo5/Opdracht trigrams/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo5/Opdracht trigrams/scripts/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +100,11 @@
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\OefenenJanExa" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo5\Opdracht trigrams" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo3" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo2\Opdracht1" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo6\Opdracht2\Images" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo6\Demo" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM1" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Test" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo5\oplossing formvalidatie eerste aanzet" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -146,6 +173,13 @@
       <workItem from="1740520291226" duration="58000" />
       <workItem from="1741687848237" duration="3177000" />
       <workItem from="1741718253844" duration="2021000" />
+      <workItem from="1741773849114" duration="13718000" />
+      <workItem from="1742221250461" duration="4744000" />
+      <workItem from="1742293205683" duration="332000" />
+      <workItem from="1742293547522" duration="706000" />
+      <workItem from="1742320654849" duration="4304000" />
+      <workItem from="1742389660648" duration="3608000" />
+      <workItem from="1742394086629" duration="5672000" />
     </task>
     <servers />
   </component>
