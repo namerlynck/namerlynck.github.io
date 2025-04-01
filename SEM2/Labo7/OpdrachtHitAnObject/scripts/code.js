@@ -78,7 +78,7 @@ const changeImage = () => {
 }
 
 const getRandomImage = () =>{
-    let index = Math.floor(Math.random() * (global.IMAGE_COUNT -1) + 1);
+    let index = Math.floor(Math.random() * (global.IMAGE_COUNT -1)) +1;
     //console.log("index: " + index +"\npad: "+ global.IMAGE_PATH_PREFIX + index + global.IMAGE_PATH_SUFFIX);
     return global.IMAGE_PATH_PREFIX + index + global.IMAGE_PATH_SUFFIX;
 
