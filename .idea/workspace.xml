@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites animatie(1)/www/images/silly-smiley.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites animatie(1)/www/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites animatie(1)/www/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites animatie(1)/www/style/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites(1)/demo sprites/www/images/silly-smiley.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites(1)/demo sprites/www/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites(1)/demo sprites/www/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites(1)/demo sprites/www/style/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 01 setinterval/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 01 setinterval/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 02 settimeout eenmalig/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 02 settimeout eenmalig/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 03 settimeout herhaald/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 03 settimeout herhaald/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Labo3/ColorPicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo3/ColorPicker/scripts/code.js" afterDir="false" />
-    </list>
+    <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +148,7 @@
       <workItem from="1743429911306" duration="2645000" />
       <workItem from="1743436256870" duration="1997000" />
       <workItem from="1743438280457" duration="99000" />
-      <workItem from="1743498919707" duration="3228000" />
+      <workItem from="1743498919707" duration="3787000" />
     </task>
     <servers />
   </component>
