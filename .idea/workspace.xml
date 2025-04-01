@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo6/Opdracht4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites animatie(1)/www/images/silly-smiley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites animatie(1)/www/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites animatie(1)/www/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites animatie(1)/www/style/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites(1)/demo sprites/www/images/silly-smiley.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites(1)/demo sprites/www/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites(1)/demo sprites/www/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo sprites(1)/demo sprites/www/style/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 01 setinterval/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 01 setinterval/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 02 settimeout eenmalig/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 02 settimeout eenmalig/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 03 settimeout herhaald/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/Demo/demo timers/demo 03 settimeout herhaald/script/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/Labo3/ColorPicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo3/ColorPicker/scripts/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +59,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GITHUB/repositories/namerlynck.github.io/SEM2/Labo2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GITHUB/repositories/namerlynck.github.io/SEM2/Labo7/Demo&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -58,18 +72,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo7\Demo" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo2" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\OefenenJanExa\Kitchn" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\OefenenJanExa\Kitchn\Style" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\OefenenJanExa\images" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\OefenenJanExa" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo7" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo6\Opdracht2\Images" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo6\Demo" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Test" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo5\oplossing formvalidatie eerste aanzet" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -146,6 +160,13 @@
       <workItem from="1742389660648" duration="3608000" />
       <workItem from="1742394086629" duration="5672000" />
       <workItem from="1742899675686" duration="1112000" />
+      <workItem from="1743243254761" duration="125000" />
+      <workItem from="1743424721270" duration="111000" />
+      <workItem from="1743424947079" duration="3418000" />
+      <workItem from="1743429911306" duration="2645000" />
+      <workItem from="1743436256870" duration="1997000" />
+      <workItem from="1743438280457" duration="99000" />
+      <workItem from="1743498919707" duration="3228000" />
     </task>
     <servers />
   </component>

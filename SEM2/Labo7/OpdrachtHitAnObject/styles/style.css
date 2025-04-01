@@ -1,0 +1,21 @@
+#speelveld{
+    height: 600px;
+    width: 600px;
+   background-color: grey;
+    position : relative;
+    box-sizing: border-box;
+    // aanvullen met hoogte en breedte
+}
+
+
+#target {
+    position: absolute;
+}
+/*.image{*/
+/*    position:absolute;*/
+/*}*/
+.unselectable {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}

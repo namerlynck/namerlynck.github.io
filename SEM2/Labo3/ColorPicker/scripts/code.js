@@ -11,10 +11,12 @@ const setup = () => {
     update();
 
 }
+
 const update = () => {
     // let sliders = document.getElementsByClassName("slider");
     // let value=sliders[0].value;
     // console.log("de waarde van de slider is momenteel : "+value);
+
     let red = document.getElementById('sldRed').value;
     let green = document.getElementById('sldGreen').value;
     let blue = document.getElementById('sldBlue').value;
