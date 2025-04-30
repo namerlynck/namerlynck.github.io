@@ -1,4 +1,5 @@
 let personen = [];
+let aantal = 0;
 // onze setup functie die de event listeners registreert
 const setup = () => {
     let btnBewaar = document.getElementById("btnBewaar");
@@ -23,32 +24,32 @@ const voegPersoonToe = () => {
     console.log("voegPersoonToe uitgevoerd");
     let lstPersonen = document.getElementById("lstPersonen");
     let elements = document.getElementsByClassName("invalid");
-    valideer();
+    //valideer();
     if (elements.length === 0) {
         // alles in orde, we mogen bewaren
         let pers = {};
         if (lstPersonen.selectedIndex === -1) {
             // nieuwe persoon bewaren
+            console.log("eerste keer" + pers);
             voegPersoonToeAanLijst(pers);
             personen.push(pers); // toevoegen aan interne lijst
             voegPersoonToeAanUI(pers);
             clearLines();
         } else {
             // bestaande persoon wijzigen
-            let pers2 = personen[lstPersonen.selectedIndex];
-            verwijderPersUitUI(pers);
-            voegPersoonToeAanLijst(pers2);
-            voegPersoonToeAanUI(pers2);
+            console.log("pesoon " + JSON.stringify(pers));
+            verwijderUitUI(pers);
+            //voegPersoonToeAanLijst(pers2); staat al in de lijst
+            voegPersoonToeAanUI(pers); //overbodig staat al in de UI
             clearLines();
         }
     }
 }
-const verwijderPersUitUI = (persoon) => {
-    console.log("verwijderPersUitUI");
-    let lstPersonen = document.getElementById("lstPersonen");
-    let index = personen.indexOf(persoon);
-    personen.splice(index, 1);
-    console.log(personen);
+const verwijderUitUI = (persoon) => {
+    console.log("verwijderUitUI uitgevoerd");
+    let index = personen.selectedIndex;
+    document.getElementById(index).remove();
+
 }
 const voegPersoonToeAanLijst = (persoon) => {
    //let persoon = {};
@@ -66,6 +67,8 @@ const voegPersoonToeAanUI = (persoon) => {
         " " + persoon.geboortedatum + " " + persoon.email + " kinderen: " + persoon.aantalKinderen);
     let option = document.createElement("option")
     option.setAttribute("class", "persoon");
+    option.setAttribute("id", "aantal");
+    aantal++;
     option.append(text);
     lstPersonen.appendChild(option);
 }

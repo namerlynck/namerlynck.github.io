@@ -5,24 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/HitAnObjectCorrection/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/HitAnObjectCorrection/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/HitAnObjectCorrection/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/HitAnObjectCorrection/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/HitAnObjectCorrection/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/HitAnObjectCorrection/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/HitAnObjectCorrection/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo7/HitAnObjectCorrection/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Date/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Date/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Date/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Event/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Event/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Event/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Object/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo8/Object/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo9/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo9/tafels_oplossing_start/tafels/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo9/tafels_oplossing_start/tafels/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Labo9/tafels_oplossing_start/tafels/scripts/code_Mathisse.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/Labo8/start contact manager opdracht/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo8/start contact manager opdracht/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +23,8 @@
       <list>
         <option value="CSS File" />
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -80,11 +69,11 @@
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\OefenenJanExa\Kitchn" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo9" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo8" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo7\Matching Game\Images" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo7" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo6\Opdracht2\Images" />
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo6\Demo" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -174,6 +163,9 @@
       <workItem from="1743675251568" duration="1380000" />
       <workItem from="1743704527539" duration="2674000" />
       <workItem from="1743708271236" duration="47000" />
+      <workItem from="1744183531225" duration="3716000" />
+      <workItem from="1745410009336" duration="10311000" />
+      <workItem from="1746005337965" duration="81000" />
     </task>
     <servers />
   </component>
