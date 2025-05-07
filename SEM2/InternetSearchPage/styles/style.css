@@ -1,0 +1,23 @@
+.bodystyle{
+    width: 95%;
+    margin: auto auto auto auto;
+}
+.btnGo{
+    background-color: green;
+    width: 200px;
+}
+.smoothCorners{
+    border-radius: 5px;
+}
+.youtube-card{
+    background-color: #d31010;
+}
+.instagram-card{
+    background-color: mediumpurple;
+}
+.x-card{
+    background-color: blue;
+}
+.google-card{
+    background-color: limegreen;
+}
