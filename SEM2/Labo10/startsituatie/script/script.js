@@ -72,28 +72,28 @@ const like = (event) =>{
         console.log("IF IS SUCCES\n" + likeCounter)
         //create a likedmovie Div
         likebtn.setAttribute("id", "likecounter");
+        //create the needed elements
         let likedMovie = createElement("div");
         let titlemovie = createElement("p");
         likedMovie.setAttribute("id", "data-id");
         let title = document.createTextNode(movies[likebtn.getAttribute("data-id") -1].title);
+        //create garbage icon
+        let garbage = createIconButton('fas fa-trash', 'unset buttons', deleteMovie);
 
         //append all elements
         titlemovie.appendChild(title);
         likedMovie.appendChild(titlemovie);
         moviebar.appendChild(likedMovie);
-
-        //create garbage icon
-        let garbage = createIconButton('fas fa-trash', 'unset buttons', deleteMovie);
         likedMovie.appendChild(garbage);
 
         //increase the like counter
         document.getElementById("like").textContent = likeCounter;
+        //Remove the dislike for further info look in the used function
+        removeDislike(event);
     } else {
         alert("You cannot like a movie twice!")
         console.log("move is already in")
     }
-
-
     //Make the likebar visible
     let likebar = document.getElementById("likebar");
     likebar.style.visibility = "visible";
@@ -105,6 +105,7 @@ const dislike = (event) =>{
     if(!dislikedMovies.includes(movies[dislikebtn.getAttribute("data-id") -1])){
         dislikedMovies.push(movies[dislikebtn.getAttribute("data-id") -1]);
         dislikeCounter++;
+        removeLike(event);
     } else {
         alert("you cannot dislike a movie twice!")
     }
@@ -112,6 +113,38 @@ const dislike = (event) =>{
     document.getElementById("dislike").textContent = dislikeCounter;
 }
 
+const removeLike = (event) => {
+    let dislikebtn = event.target.parentElement;
+    dislikebtn.setAttribute("id", "dislikecounter");
+    console.log("RemoveLike succesfull\n"+ event.target);
+    if(likedMovies.includes(movies[dislikebtn.getAttribute("data-id") -1])){
+        //If movie is in likedmovies
+        //Remove the movie from the array
+        //Decrease the likecounter
+        const index = likedMovies.indexOf(movies[dislikebtn.getAttribute("data-id") -1]);
+        likedMovies.splice(index, 1);
+        likeCounter--;
+        deleteMovie();
+        //nu nog CSS removen van likebutton
+    }
+}
+
+const removeDislike = (event) => {
+    let likebtn = event.target.parentElement;
+    likebtn.setAttribute("id", "dislikecounter");
+    console.log("RemoveDisLike succesfull\n"+ event.target);
+    if(dislikedMovies.includes(movies[likebtn.getAttribute("data-id") -1])){
+        //If movie is in dislikedmovies
+        //Remove the movie from the array
+        //Decrease the dislikecounter
+        const index = dislikedMovies.indexOf(movies[likebtn.getAttribute("data-id") -1]);
+        dislikedMovies.splice(index, 1);
+        dislikeCounter--;
+        deleteMovie();
+        //nu nog CSS removen van likebutton
+    }
+
+}
 const deleteMovie = () => {
     let moviebar = document.getElementById("likebarmovies");
     let film = document.getElementById("data-id");

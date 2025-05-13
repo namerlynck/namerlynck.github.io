@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SEM2/Labo10/startsituatie/script/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo10/startsituatie/script/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +64,8 @@
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\OefenenJanExa\Kitchn" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo10" />
+      <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo9" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo8" />
       <recent name="C:\GITHUB\repositories\namerlynck.github.io\SEM2\Labo7\Matching Game\Images" />
@@ -164,7 +165,7 @@
       <workItem from="1746177382081" duration="372000" />
       <workItem from="1746619683284" duration="10389000" />
       <workItem from="1746646472447" duration="1335000" />
-      <workItem from="1747163298487" duration="1348000" />
+      <workItem from="1747163298487" duration="3403000" />
     </task>
     <servers />
   </component>
