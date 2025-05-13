@@ -100,9 +100,15 @@ const like = (event) =>{
 }
 
 const dislike = (event) =>{
-    let dislikebtn = event.target;
+    let dislikebtn = event.target.parentElement;
     dislikebtn.setAttribute("id", "dislikecounter");
-    dislikeCounter++;
+    if(!dislikedMovies.includes(movies[dislikebtn.getAttribute("data-id") -1])){
+        dislikedMovies.push(movies[dislikebtn.getAttribute("data-id") -1]);
+        dislikeCounter++;
+    } else {
+        alert("you cannot dislike a movie twice!")
+    }
+
     document.getElementById("dislike").textContent = dislikeCounter;
 }
 
