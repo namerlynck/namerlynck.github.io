@@ -1,5 +1,9 @@
 // Plaats alle benodigde Javascript code in dit bestand.
 // Zorg ervoor dat je alle functionaliteit die in de opgave gevraagd wordt voorziet.
+const likedMovies = [];
+const dislikedMovies = [];
+let likeCounter = 0;
+let dislikeCounter = 0;
 const setup = () => {
     loadMovies();
 }
@@ -59,18 +63,38 @@ const loadMovies = () => {
 const like = (event) =>{
     let moviebar = document.getElementById("likebarmovies");
     let likebtn = event.target.parentElement;
-    likebtn.setAttribute("id", "likecounter");
-    let likedMovie = createElement("div");
-    let titlemovie = createElement("p");
-    likedMovie.setAttribute("id", "data-id");
-    let title = document.createTextNode(movies[likebtn.getAttribute("data-id") -1].title);
-    titlemovie.appendChild(title);
-    likedMovie.appendChild(titlemovie);
-    moviebar.appendChild(likedMovie);
+    //Add liked movie to array
 
-    let garbage = createIconButton('fas fa-trash', 'unset buttons', deleteMovie);
-    likedMovie.appendChild(garbage);
+    //make sure you can't put a liked movie twice into to the moviebar
+    if(!likedMovies.includes(movies[likebtn.getAttribute("data-id") -1])){
+        likedMovies.push(movies[likebtn.getAttribute("data-id") -1]);
+        likeCounter++;
+        console.log("IF IS SUCCES\n" + likeCounter)
+        //create a likedmovie Div
+        likebtn.setAttribute("id", "likecounter");
+        let likedMovie = createElement("div");
+        let titlemovie = createElement("p");
+        likedMovie.setAttribute("id", "data-id");
+        let title = document.createTextNode(movies[likebtn.getAttribute("data-id") -1].title);
 
+        //append all elements
+        titlemovie.appendChild(title);
+        likedMovie.appendChild(titlemovie);
+        moviebar.appendChild(likedMovie);
+
+        //create garbage icon
+        let garbage = createIconButton('fas fa-trash', 'unset buttons', deleteMovie);
+        likedMovie.appendChild(garbage);
+
+        //increase the like counter
+        document.getElementById("like").textContent = likeCounter;
+    } else {
+        alert("You cannot like a movie twice!")
+        console.log("move is already in")
+    }
+
+
+    //Make the likebar visible
     let likebar = document.getElementById("likebar");
     likebar.style.visibility = "visible";
 }
@@ -78,6 +102,8 @@ const like = (event) =>{
 const dislike = (event) =>{
     let dislikebtn = event.target;
     dislikebtn.setAttribute("id", "dislikecounter");
+    dislikeCounter++;
+    document.getElementById("dislike").textContent = dislikeCounter;
 }
 
 const deleteMovie = () => {
