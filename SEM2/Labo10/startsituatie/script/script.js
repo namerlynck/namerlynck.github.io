@@ -89,7 +89,7 @@ const like = (event) =>{
         //increase the like counter
         document.getElementById("like").textContent = likeCounter;
         //Remove the dislike for further info look in the used function
-        removeDislike(event);
+        //removeDislike(event);
     } else {
         alert("You cannot like a movie twice!")
         console.log("move is already in")
@@ -129,20 +129,20 @@ const removeLike = (event) => {
     }
 }
 
-const removeDislike = (event) => {
-    let likebtn = event.target.parentElement;
-    likebtn.setAttribute("id", "dislikecounter");
-    console.log("RemoveDisLike succesfull\n"+ event.target);
-    if(dislikedMovies.includes(movies[likebtn.getAttribute("data-id") -1])){
-        //If movie is in dislikedmovies
-        //Remove the movie from the array
-        //Decrease the dislikecounter
-        const index = dislikedMovies.indexOf(movies[likebtn.getAttribute("data-id") -1]);
-        dislikedMovies.splice(index, 1);
-        dislikeCounter--;
-        deleteMovie();
-        //nu nog CSS removen van likebutton
-    }
+// const removeDislike = (event) => {
+//     let likebtn = event.target.parentElement;
+//     likebtn.setAttribute("id", "dislikecounter");
+//     console.log("RemoveDisLike succesfull\n"+ event.target);
+//     if(dislikedMovies.includes(movies[likebtn.getAttribute("data-id") -1])){
+//         //If movie is in dislikedmovies
+//         //Remove the movie from the array
+//         //Decrease the dislikecounter
+//         const index = dislikedMovies.indexOf(movies[likebtn.getAttribute("data-id") -1]);
+//         dislikedMovies.splice(index, 1);
+//         dislikeCounter--;
+//         deleteMovie();
+//         //nu nog CSS removen van likebutton
+//     }
 
 }
 const deleteMovie = () => {
