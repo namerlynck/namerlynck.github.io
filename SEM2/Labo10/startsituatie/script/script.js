@@ -143,7 +143,7 @@ const removeLike = (event) => {
 //         deleteMovie();
 //         //nu nog CSS removen van likebutton
 //     }
-//}
+
 const deleteMovie = () => {
     let moviebar = document.getElementById("likebarmovies");
     let film = document.getElementById("data-id");
