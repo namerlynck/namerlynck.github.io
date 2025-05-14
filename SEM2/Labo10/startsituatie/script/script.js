@@ -116,12 +116,12 @@ const dislike = (event) =>{
 const removeLike = (event) => {
     let dislikebtn = event.target.parentElement;
     dislikebtn.setAttribute("id", "dislikecounter");
-    console.log("RemoveLike succesfull\n"+ event.target);
-    if(likedMovies.includes(movies[dislikebtn.getAttribute("data-id") -1])){
+    console.log("RemoveLike succesfull\n" + event.target);
+    if (likedMovies.includes(movies[dislikebtn.getAttribute("data-id") - 1])) {
         //If movie is in likedmovies
         //Remove the movie from the array
         //Decrease the likecounter
-        const index = likedMovies.indexOf(movies[dislikebtn.getAttribute("data-id") -1]);
+        const index = likedMovies.indexOf(movies[dislikebtn.getAttribute("data-id") - 1]);
         likedMovies.splice(index, 1);
         likeCounter--;
         deleteMovie();
@@ -143,8 +143,7 @@ const removeLike = (event) => {
 //         deleteMovie();
 //         //nu nog CSS removen van likebutton
 //     }
-
-}
+//}
 const deleteMovie = () => {
     let moviebar = document.getElementById("likebarmovies");
     let film = document.getElementById("data-id");
