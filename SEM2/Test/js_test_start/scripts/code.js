@@ -1,21 +1,28 @@
 const setup = () => {
     let input = document.getElementById("selBestelling");
-    input.addEventListener("input", veranderAfbeelding);
+    input.addEventListener("input", veranderAfbeeldingEnTekst);
     let inputLetter = document.getElementById("letter");
    aantalKeerLetterInZin();
 }
-const veranderAfbeelding = () => {
+const veranderAfbeeldingEnTekst = () => {
     let image = document.getElementById("img");
     let input = document.getElementById("selBestelling");
+    let tekst = document.getElementById("note");
+
+
     //console.log(input.value);
     if(input.value === "Zonder een ei"){
         image.classList.remove("hidden");
         image.classList.remove("with-egg");
+        tekst.textContent = "";
+        tekst.append(document.createTextNode("Hierboven een kip zonder een ei"));
         //image.id = "img";
-    } else if(input.value === "Met een ei"){
+    } else {//if(input.value === "Met een ei"){
         image.classList.remove("hidden");
        // image.id = "img";
         image.classList.add("with-egg");
+        tekst.textContent = "";
+        tekst.append(document.createTextNode("Hierboven een kip met een ei"));
     }
    // image.classList.remove("hidden");
 }

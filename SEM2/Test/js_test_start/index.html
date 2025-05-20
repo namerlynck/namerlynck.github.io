@@ -1,27 +1,31 @@
 <!doctype html>
-<html>
+<html lang="nl">
 <head>
-	<title>Kip en ei</title>
 	<meta charset="utf-8">
+	<title>Kip en ei</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<link href="style.css" rel="stylesheet">
-
 </head>
 <body>
-	<!-- Voeg hier het tesktvak en de keuzelijst toe -->
+<main>
+	<section class="bestelling">
+		<label for="selBestelling">Staart van de kip:</label>
+		<select id="selBestelling" multiple size="2">
+			<option>Met een ei</option>
+			<option>Zonder een ei</option>
+		</select>
 
-	<p>Staart van de kip: </p>
-	<select id="selBestelling" multiple size="0">
-		<option>Met een ei</option>
-		<option>Zonder een ei</option>
-	</select>
-	<input type="text" id="letter" >
+		<label for="letter">Voer iets in:</label>
+		<input type="text" id="letter" placeholder="Typ hier...">
+	</section>
 
-	<div id="img" class="hidden">
+	<section class="resultaat">
+		<div id="img" class="hidden"></div>
+		<p id="note"></p>
+		<p id="zin"></p>
+	</section>
+</main>
 
-	</div>
-	<p id="note">Hierboven een kip zonder een ei</p>
-	<p id="zin"></p>
-	<script src="scripts/code.js"></script>
+<script src="scripts/code.js"></script>
 </body>
 </html>
