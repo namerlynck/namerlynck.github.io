@@ -114,9 +114,9 @@ const handleDrop = (e, newStatus) => {
         moveTask();
     }
     //e.target.classList.remove("dragover");
-    // document.querySelectorAll('.column').forEach(col => {
-    //     col.classList.remove("dragover");
-    // })
+    document.querySelectorAll('.column').forEach(col => {
+        col.classList.remove("dragover");
+    })
 
 }
 const handleDragStart = (e) =>{
