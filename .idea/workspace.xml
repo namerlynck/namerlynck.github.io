@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62db86b4-c2cc-474d-b3bf-ecac92a903e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo12/Demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo12/Demo/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo12/Demo/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo12/Oef1/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Labo12/Oef1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/TA-ExaSem2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/TA-ExaSem2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/TA-ExaSem2/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Labo12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Labo12/Oef1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Test/js_test_start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Test/js_test_start/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Test/js_test_start/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Test/js_test_start/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/TA-ExaSem2/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/TA-ExaSem2/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/TA-ExaSem2/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/TA-ExaSem2/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,6 +172,9 @@
       <workItem from="1747333024660" duration="4880000" />
       <workItem from="1747650036779" duration="1645000" />
       <workItem from="1747652562618" duration="8274000" />
+      <workItem from="1747820135899" duration="1073000" />
+      <workItem from="1747938918598" duration="403000" />
+      <workItem from="1748027434560" duration="323000" />
     </task>
     <servers />
   </component>

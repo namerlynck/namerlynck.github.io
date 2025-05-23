@@ -91,9 +91,19 @@ const setupEventListenersForDropZones = () => {
     document.getElementById("btnVoegToe").addEventListener("click", createTask);
     document.querySelectorAll('.column').forEach(col => {
         const status = col.dataset.status;
-        col.addEventListener('dragover', e => e.preventDefault());
+        col.addEventListener('dragover', e => dragover(e));
+        col.addEventListener('dragleave', e=> dragleave(e))
         col.addEventListener('drop', e => handleDrop(e, status));
     })
+}
+const dragleave = (event) => {
+    event.target.classList.remove("dragover");
+}
+const dragover = (event) => {
+    console.log("event: " + event);
+    event.target.classList.add("dragover");
+    console.log(event.target);
+    event.preventDefault();
 }
 
 const handleDrop = (e, newStatus) => {
@@ -105,6 +115,10 @@ const handleDrop = (e, newStatus) => {
         saveTasksToLocalStorage();
         moveTask();
     }
+    //e.target.classList.remove("dragover");
+    document.querySelectorAll('.column').forEach(col => {
+        col.classList.remove("dragover");
+    })
 
 }
 const handleDragStart = (e) =>{
