@@ -100,9 +100,7 @@ const dragleave = (event) => {
     event.target.classList.remove("dragover");
 }
 const dragover = (event) => {
-    console.log("event: " + event);
     event.target.classList.add("dragover");
-    console.log(event.target);
     event.preventDefault();
 }
 
@@ -116,9 +114,9 @@ const handleDrop = (e, newStatus) => {
         moveTask();
     }
     //e.target.classList.remove("dragover");
-    document.querySelectorAll('.column').forEach(col => {
-        col.classList.remove("dragover");
-    })
+    // document.querySelectorAll('.column').forEach(col => {
+    //     col.classList.remove("dragover");
+    // })
 
 }
 const handleDragStart = (e) =>{
