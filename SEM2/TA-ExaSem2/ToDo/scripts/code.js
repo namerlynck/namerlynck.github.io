@@ -97,11 +97,12 @@ const setupEventListenersForDropZones = () => {
     })
 }
 const dragleave = (event) => {
-    event.target.classList.remove("dragover");
+    event.currentTarget.classList.remove("dragover");
 }
 const dragover = (event) => {
-    event.target.classList.add("dragover");
     event.preventDefault();
+    event.currentTarget.classList.add("dragover");
+
 }
 
 const handleDrop = (e, newStatus) => {
